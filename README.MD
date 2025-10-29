@@ -13,6 +13,8 @@ Este projeto foi criado para praticar **lógica de programação**, **interativi
 4. O jogo indicará se o número secreto é **maior ou menor** que o seu chute.
 5. Quando acertar, o jogo mostrará quantas **tentativas** você precisou 🎉
 
+🎮 **Jogue agora:** [https://sinngjpeg.github.io/alura-logica-de-programacao/](https://sinngjpeg.github.io/alura-logica-de-programacao/)
+
 ---
 
 ## 💻 Tecnologias utilizadas
@@ -46,8 +48,6 @@ Você pode jogar **diretamente pelo navegador**, basta abrir o arquivo `index.ht
 - Interação básica com o usuário via `alert()` e `prompt()`.
 
 ---
-
-## 📸 Pré-visualização
 
 ![Tela do jogo](./img/robot.png)
 
