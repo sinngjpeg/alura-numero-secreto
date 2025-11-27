@@ -19,9 +19,9 @@ Este projeto foi criado para praticar **lógica de programação**, **interativi
 
 ## 💻 Tecnologias utilizadas
 
-- **HTML5** → Estrutura da página
-- **CSS3** → Estilos e layout
-- **JavaScript (ES6)** → Lógica do jogo
+- **HTML** → Estrutura da página
+- **CSS** → Estilos e layout
+- **JavaScript** → Lógica do jogo
 
 ---
 
@@ -30,7 +30,7 @@ Este projeto foi criado para praticar **lógica de programação**, **interativi
 ```
 📁 projeto-numero-secreto
 │
-├── 📂 img/ # Imagens do jogo (robô, troféu, etc.)
+├── 📂 img/ # Imagens do jogo 
 ├── 📄 index.html # Estrutura da página
 ├── 📄 style.css # Estilos visuais
 └── 📄 app.js # Lógica do jogo em JavaScript
